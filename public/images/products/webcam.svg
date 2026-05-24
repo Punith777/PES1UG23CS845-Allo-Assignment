@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Compact webcam 1080p</title>
+  <desc id="desc">Product illustration of a compact webcam with a privacy shutter.</desc>
+  <rect width="800" height="500" fill="#111827"/>
+  <circle cx="168" cy="118" r="84" fill="#22d3ee" opacity=".13"/>
+  <circle cx="631" cy="100" r="72" fill="#a78bfa" opacity=".15"/>
+  <rect x="208" y="118" width="384" height="222" rx="82" fill="#020617"/>
+  <rect x="232" y="142" width="336" height="174" rx="68" fill="#1f2937"/>
+  <circle cx="400" cy="229" r="70" fill="#020617"/>
+  <circle cx="400" cy="229" r="48" fill="#312e81"/>
+  <circle cx="400" cy="229" r="28" fill="#111827"/>
+  <circle cx="386" cy="213" r="9" fill="#bfdbfe"/>
+  <rect x="266" y="181" width="72" height="96" rx="18" fill="#0f172a"/>
+  <rect x="462" y="181" width="72" height="96" rx="18" fill="#0f172a"/>
+  <rect x="346" y="329" width="108" height="45" rx="18" fill="#334155"/>
+  <path d="M312 374h176c23 0 42 19 42 42v16H270v-16c0-23 19-42 42-42z" fill="#475569"/>
+  <rect x="306" y="413" width="188" height="34" rx="17" fill="#1f2937"/>
+  <ellipse cx="400" cy="455" rx="200" ry="22" fill="#020617" opacity=".35"/>
+</svg>

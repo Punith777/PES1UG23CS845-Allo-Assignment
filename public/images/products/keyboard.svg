@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Mechanical keyboard TKL</title>
+  <desc id="desc">Product illustration of a compact RGB mechanical keyboard.</desc>
+  <rect width="800" height="500" fill="#0f172a"/>
+  <path d="M0 360h800v140H0z" fill="#18181b"/>
+  <circle cx="650" cy="120" r="92" fill="#06b6d4" opacity=".16"/>
+  <circle cx="155" cy="120" r="74" fill="#8b5cf6" opacity=".18"/>
+  <g transform="translate(112 150) rotate(-4 288 104)">
+    <rect x="0" y="0" width="576" height="208" rx="34" fill="#111827"/>
+    <rect x="20" y="22" width="536" height="164" rx="20" fill="#27272a"/>
+    <g fill="#e5e7eb">
+      <rect x="48" y="46" width="42" height="32" rx="7"/>
+      <rect x="100" y="46" width="42" height="32" rx="7"/>
+      <rect x="152" y="46" width="42" height="32" rx="7"/>
+      <rect x="204" y="46" width="42" height="32" rx="7"/>
+      <rect x="256" y="46" width="42" height="32" rx="7"/>
+      <rect x="308" y="46" width="42" height="32" rx="7"/>
+      <rect x="360" y="46" width="42" height="32" rx="7"/>
+      <rect x="412" y="46" width="42" height="32" rx="7"/>
+      <rect x="464" y="46" width="42" height="32" rx="7"/>
+      <rect x="56" y="90" width="42" height="32" rx="7"/>
+      <rect x="108" y="90" width="42" height="32" rx="7"/>
+      <rect x="160" y="90" width="42" height="32" rx="7"/>
+      <rect x="212" y="90" width="42" height="32" rx="7"/>
+      <rect x="264" y="90" width="42" height="32" rx="7"/>
+      <rect x="316" y="90" width="42" height="32" rx="7"/>
+      <rect x="368" y="90" width="42" height="32" rx="7"/>
+      <rect x="420" y="90" width="42" height="32" rx="7"/>
+      <rect x="72" y="134" width="58" height="32" rx="7"/>
+      <rect x="140" y="134" width="42" height="32" rx="7"/>
+      <rect x="192" y="134" width="172" height="32" rx="7"/>
+      <rect x="374" y="134" width="42" height="32" rx="7"/>
+      <rect x="426" y="134" width="58" height="32" rx="7"/>
+    </g>
+    <g opacity=".75">
+      <rect x="48" y="46" width="42" height="6" rx="3" fill="#22d3ee"/>
+      <rect x="204" y="46" width="42" height="6" rx="3" fill="#a78bfa"/>
+      <rect x="360" y="46" width="42" height="6" rx="3" fill="#34d399"/>
+      <rect x="108" y="90" width="42" height="6" rx="3" fill="#f472b6"/>
+      <rect x="264" y="90" width="42" height="6" rx="3" fill="#fbbf24"/>
+      <rect x="420" y="90" width="42" height="6" rx="3" fill="#22d3ee"/>
+    </g>
+  </g>
+  <ellipse cx="400" cy="402" rx="255" ry="26" fill="#020617" opacity=".38"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">27 inch 4K IPS monitor</title>
+  <desc id="desc">Product illustration of a slim widescreen monitor.</desc>
+  <defs>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="#0f172a"/>
+  <circle cx="123" cy="99" r="82" fill="#8b5cf6" opacity=".16"/>
+  <circle cx="676" cy="342" r="105" fill="#22d3ee" opacity=".11"/>
+  <rect x="118" y="78" width="564" height="316" rx="28" fill="#020617"/>
+  <rect x="146" y="106" width="508" height="260" rx="14" fill="url(#screen)"/>
+  <path d="M182 330c76-111 149-148 220-110 63 34 99 18 155-66 27-41 63-57 97-54v266H146v-72c12 23 24 35 36 36z" fill="#020617" opacity=".28"/>
+  <path d="M400 394v54" stroke="#64748b" stroke-width="24" stroke-linecap="round"/>
+  <path d="M294 453h212c18 0 32 14 32 32H262c0-18 14-32 32-32z" fill="#334155"/>
+  <rect x="332" y="386" width="136" height="18" rx="9" fill="#111827"/>
+  <ellipse cx="400" cy="487" rx="232" ry="13" fill="#020617" opacity=".45"/>
+</svg>
