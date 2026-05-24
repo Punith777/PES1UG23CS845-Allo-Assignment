@@ -1,5 +1,8 @@
 # Allo Inventory
 
+Allo Inventory is a sample multi-warehouse inventory reservation app. It lets users browse products, reserve stock from a warehouse, complete or cancel checkout, and monitor all reservations from an admin-style dashboard.
+
+The project is built with Next.js App Router, Prisma, PostgreSQL, Redis locking, and Tailwind CSS.
 
 ## What It Does
 
