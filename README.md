@@ -161,3 +161,5 @@ This helps protect against duplicate submissions caused by retries, slow network
 - Checkout confirmation is simulated from the browser. In production, this would usually be handled through a payment provider webhook.
 - The seed script clears and recreates sample reservation, stock, product, and warehouse data.
 - Product images live under `public/images/products`, so they are served locally by Next.js.
+
+trigger deployment
