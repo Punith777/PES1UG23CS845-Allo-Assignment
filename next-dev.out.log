@@ -612,3 +612,5 @@ prisma:query SELECT "public"."Product"."id", "public"."Product"."name", "public"
 prisma:query SELECT "public"."Stock"."id", "public"."Stock"."productId", "public"."Stock"."warehouseId", "public"."Stock"."total", "public"."Stock"."reserved", "public"."Stock"."createdAt", "public"."Stock"."updatedAt" FROM "public"."Stock" LEFT JOIN "public"."Warehouse" AS "orderby_1" ON ("orderby_1"."id") = ("public"."Stock"."warehouseId") WHERE "public"."Stock"."productId" IN ($1,$2,$3,$4,$5,$6) ORDER BY "orderby_1"."name" ASC OFFSET $7
 prisma:query SELECT "public"."Warehouse"."id", "public"."Warehouse"."name", "public"."Warehouse"."location", "public"."Warehouse"."createdAt", "public"."Warehouse"."updatedAt" FROM "public"."Warehouse" WHERE "public"."Warehouse"."id" IN ($1,$2,$3) OFFSET $4
  GET / 200 in 1236ms
+   Reload env: .env
+ ✓ Compiled in 2.2s (692 modules)
